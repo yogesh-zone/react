@@ -11,7 +11,8 @@
 
 ## Home Page
 
-![picture alt]([http://via.placeholder.com/200x150](https://res.cloudinary.com/dbej3vdgp/image/upload/v1668047919/HomePage_pawsmc.png) )
+![alt text]([http://url/to/img.png](https://res.cloudinary.com/dbej3vdgp/image/upload/v1668047919/HomePage_pawsmc.png))
+
 
 
 
