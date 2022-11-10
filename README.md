@@ -12,20 +12,31 @@
 ## Home Page
 
 Consumers can see all the ad posted by other consumers. and they can set filters according to there need
+
+
 ![alt text](https://res.cloudinary.com/dbej3vdgp/image/upload/v1668047919/HomePage_pawsmc.png)
 
 
 ## Login Page
+
 Consumers need to provide Email and Password to login, and after login Consumers can post there own ads on car bazaar
+
+
 ![alt text](https://res.cloudinary.com/dbej3vdgp/image/upload/v1668048736/Login_gksool.png)
 
 ## Sign Up Page
+
 if Consumers is new to car bazaar then he need to provide Name Email and Password and after Sign Up Consumers becomes a active user of car bazaar
+
+
 ![alt text](https://res.cloudinary.com/dbej3vdgp/image/upload/v1668048735/SignUp_fliln6.png)
 
 ## Post your Ad
+
 This page is for the Consumers who are wanting to sell there cars
 after providing the data Ad is posted to the home page
+
+
 ![alt text](https://res.cloudinary.com/dbej3vdgp/image/upload/v1668048737/PostAd_dnd3kg.png)
 
 
