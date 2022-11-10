@@ -9,6 +9,12 @@
 * Discover deals and buy from verified sellers in your neighbourhood.
 * Safely get what you want from home and have conversations with certified sellers, negotiate with them.
 
+## Home Page
+
+![picture alt]([http://via.placeholder.com/200x150](https://res.cloudinary.com/dbej3vdgp/image/upload/v1668047919/HomePage_pawsmc.png) )
+
+
+
 ## Installation
 
 ## Available Scripts Backend
