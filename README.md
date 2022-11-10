@@ -11,11 +11,25 @@
 
 ## Home Page
 
-<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=yogesh-zone&show_icons=true&locale=en&layout=compact](http://url/to/img.png](https://res.cloudinary.com/dbej3vdgp/image/upload/v1668047919/HomePage_pawsmc.png)" alt="yogesh-zone" /></p>
-
 ![alt text](https://res.cloudinary.com/dbej3vdgp/image/upload/v1668047919/HomePage_pawsmc.png)
 
 
+## Login Page
+
+![alt text]((https://res.cloudinary.com/dbej3vdgp/image/upload/v1668048736/Login_gksool.png))
+
+##Sign Up Page
+
+![alt text](https://res.cloudinary.com/dbej3vdgp/image/upload/v1668048735/SignUp_fliln6.png)
+
+##Post your Ad
+
+![alt text](https://res.cloudinary.com/dbej3vdgp/image/upload/v1668048737/PostAd_dnd3kg.png)
+
+
+## Contact Us
+
+![alt text](https://res.cloudinary.com/dbej3vdgp/image/upload/v1668048737/FireShot_Capture_009_-_Add_Item_-_localhost_lrawrs.png)
 
 
 ## Installation
