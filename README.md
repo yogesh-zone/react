@@ -13,7 +13,7 @@
 
 <p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=yogesh-zone&show_icons=true&locale=en&layout=compact](http://url/to/img.png](https://res.cloudinary.com/dbej3vdgp/image/upload/v1668047919/HomePage_pawsmc.png)" alt="yogesh-zone" /></p>
 
-![alt text]([http://url/to/img.png](https://res.cloudinary.com/dbej3vdgp/image/upload/v1668047919/HomePage_pawsmc.png))
+![alt text](https://res.cloudinary.com/dbej3vdgp/image/upload/v1668047919/HomePage_pawsmc.png)
 
 
 
