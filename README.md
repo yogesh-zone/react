@@ -5,9 +5,9 @@
 
 ## Features of CAR BAZAAR
 
-Markup : *Consumers can buy and sell easily through a smartphone.
-Markup : *Discover deals and buy from verified sellers in your neighbourhood.
-Markup : *Safely get what you want from home and have conversations with certified sellers, negotiate with them.
+* Consumers can buy and sell easily through a smartphone.
+* Discover deals and buy from verified sellers in your neighbourhood.
+* Safely get what you want from home and have conversations with certified sellers, negotiate with them.
 
 ## Installation
 
