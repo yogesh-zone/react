@@ -16,13 +16,13 @@
 
 ## Login Page
 
-![alt text]((https://res.cloudinary.com/dbej3vdgp/image/upload/v1668048736/Login_gksool.png))
+![alt text](https://res.cloudinary.com/dbej3vdgp/image/upload/v1668048736/Login_gksool.png)
 
-##Sign Up Page
+## Sign Up Page
 
 ![alt text](https://res.cloudinary.com/dbej3vdgp/image/upload/v1668048735/SignUp_fliln6.png)
 
-##Post your Ad
+## Post your Ad
 
 ![alt text](https://res.cloudinary.com/dbej3vdgp/image/upload/v1668048737/PostAd_dnd3kg.png)
 
